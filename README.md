@@ -1,24 +1,27 @@
 ![MasterHead](https://camo.githubusercontent.com/9aa127e4ccc6105c73df89829816ebb18c2d629394b2ea8c8873a59a3af1cc71/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
-<h1 align="center">Hello 👋, I'm Adnan</h1>
-<h3 align="center">A passionate Coder from India and an IT student pursuing my B-tech degree at VJIT-Hyd. I’m proficient in a range of technologies, including Web Technologies, Java, Python, React, Node.js, and many more. I’m always eager to learn and integrate new tools to enhance my projects. 🎓 Learning Journey: I'm Currently delving into Java Data Structures and Algorithms (DSA) to sharpen my problem-solving skills and improve my coding efficiency.</h3>
+<h1 align="center">Hello 👋, I'm Adnan Ahmed</h1>
+<h3 align="center">Coder on a Mission: From Concept to Completion.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinhub35&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinhub35" /> </p>
 
-- 🔭 I’m currently working on *Basics of Data Scientist*
-- 🌱 I’m currently learning *Data Analysis*
+- 🌱 I’m currently learning *Data Scence*
 
-- 💬 Ask me about **
+- 💬 Ask me about *Data Analysis*
 
 - 📫 How to reach me *adnanbhameshan@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnanbhameshan" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnanbhameshan" height="30" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnanbhameshan" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohsin_35" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohsin_35" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/adnanbhameshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnanbhameshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
