@@ -9,10 +9,9 @@
 - 🌱 I’m currently learning *Data Scence*
 - 💬 Ask me about *Data Analysis*
 - 📫 How to reach me *adnanbhameshan@gmail.com*
-.connect-with-me {
-    display: block;
-    margin-bottom: 20px;
-}
+
+
+
 
 
 ## Connect with me:
