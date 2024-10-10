@@ -14,7 +14,12 @@
 
 ## Connect with me:
 ### 🌐 Socials and Professionals:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanbhameshan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnanbhameshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adnanbhameshan) [![HackerRank](https://img.shields.io/badge/HackerRank-%2320BE51.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adnanbhameshan) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/adnanbhameshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/adnanbhameshan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/adnanbhameshan) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/adnanbhameshan) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2320BE51.svg?logo=HackerRank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/adnanbhameshan) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white&style=for-the-badge)](https://leetcode.com/adnanbhameshan)
+
 
 
 ## Languages and Tools:
@@ -59,5 +64,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanbhameshan&show_icons=true&locale=en&layout=compact" alt="adnanbhameshan" /></p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
