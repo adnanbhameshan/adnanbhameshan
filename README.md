@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinhub35&label=Profile%20views&color=0e75b6&style=flat" alt="adnanbhameshan" /> </p>
 
-- 🌱 I’m currently learning *Data Scence*
+- 🌱 I’m currently learning *Data Science*
 - 💬 Ask me about *Data Analysis*
 - 📫 How to reach me *adnanbhameshan@gmail.com*
 
-# Connect with me:
+## Connect with me:
 ### 🌐 Socials and Professionals:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanbhameshan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnanbhameshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adnanbhameshan) [![HackerRank](https://img.shields.io/badge/HackerRank-%2320BE51.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/adnanbhameshan) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/adnanbhameshan)
 
